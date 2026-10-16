@@ -14,10 +14,3 @@ Contenido de las ocho tarjetas de la clase de skills de MenteOut.ai: cada alumno
 | 06 | [Documentos](tarjetas/06-documentos.md) | Documentos, hojas y presentaciones | Word, Excel, PowerPoint |
 | 07 | [Automatización](tarjetas/07-automatizacion.md) | Tareas sin repetir | Resumen diario, Google Workspace, Navegador |
 | 08 | [Delegado](tarjetas/08-delegado.md) | Organiza la clase y crea skills | Crear skill, Crear plugin, Adaptar plugin |
-
-## Estado
-
-- Borrador v1 de las ocho tarjetas. Textos para revisar.
-- Comando de «Copiar comando»: pendiente de decidir en todas.
-- Tarjeta 3 (Prompts): las tres skills son propias y todavía hay que empaquetarlas como skill.
-- Tarjetas 4 y 5: algunas skills son propias (guía de IA de MenteOut.ai).
